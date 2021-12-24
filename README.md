@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kouideromeiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kouideromeiri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/omeiri-kouider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5353170/omeiri-kouider" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5353170/omeiri-kouider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5353170/omeiri-kouider" height="30" width="40" /></a>
 <a href="https://fb.com/arabicboy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arabicboy13" height="30" width="40" /></a>
 <a href="https://instagram.com/kader__omeiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kader__omeiri" height="30" width="40" /></a>
 <a href="https://medium.com/kouideromeiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kouideromeiri" height="30" width="40" /></a>
