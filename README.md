@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaderomeiri" alt="kaderomeiri" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kouideromeiri" target="blank"><img src="https://img.shields.io/twitter/follow/kouideromeiri?logo=twitter&style=for-the-badge" alt="kouideromeiri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kader_omeiri" target="blank"><img src="https://img.shields.io/twitter/follow/kader_omeiri?logo=twitter&style=for-the-badge" alt="kouideromeiri" /></a> </p>
 
 - 🔭 I’m currently working on **Social Network Project**
 
